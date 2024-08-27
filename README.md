@@ -1,5 +1,5 @@
 # Statistical-Theory-Project
-Project I wrote with Ohad Zilber during our B.Sc. in mathematics and data science in the course Statistical Theory, authored by Dr. Oshrit Shtusel and Or Shkuri
+Project I wrote with Ohad Zilber during our B.Sc. in mathematics and data science in the course Statistical Theory, authored by Oshrit Shtusel and Or Shkuri
 
 # Sleep Efficiency Analysis
 
@@ -14,8 +14,8 @@ This project is part of the Statistical Theory course. It involves analyzing sle
 The notebook is structured as follows:
 
 - **Introduction:** Overlook on the data, plots of the distributions of the main features.
-- **Results:** Presents the main hypothesis, answers it using course tools, supported by tables, figures, and visualizations.
-- **Conclusion:** Discusses the conclusions of the analysis.
+- **Results:** Presents the main hypothesis, answers it using tools that have been studied in the course, supported by tables, figures and visualizations.
+- **Conclusions:** Discusses the conclusions of the analysis.
 
 ## Prerequisites
 
@@ -25,10 +25,13 @@ The notebook is structured as follows:
 - Seaborn
 - SciPy
 - Statsmodels
+- sklearn
 
 ## Authors
 
 - **Naor Yichye** 
 - **Ohad Zilber**
 
+## Link To The Dataset
+- Dataset page on kaggle: https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
 
